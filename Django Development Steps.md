@@ -38,5 +38,18 @@ Check for the following things in your python folder
 Note :  If pip is not installed consider visiting this link
     https://www.geeksforgeeks.org/how-to-install-pip-on-windows/
 
-### 
+### Creating the Project Folder 
+
+Create a project Folder inside any directory and open Command Prompt inside the Directory.
+
+After that 
+
+     $ cd < DIR NAME >
+ 
+Creating a virtual enviornment
+
+    $DIR-NAME > pip install virtualenv <name of virtual-env>
+
+
+
 
