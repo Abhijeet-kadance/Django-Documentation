@@ -106,3 +106,16 @@ forms.py
             fm=StudentRegistration()
 
         return render(request, 'enroll/userregistration.html',{'form':form})
+
+
+## Dont Forget To run Make migration Command as follows
+
+    > python manage.py makemigrations
+
+    > python manage.py migrate
+
+    > python manage.py runserver
+    // to check if evrething is working fine
+
+
+
